@@ -1,6 +1,6 @@
 ## Network Roadmap
 
-This is our public roadmap. Some parts of the roadmap remain private until issues are completed.
+This is our public roadmap. Some parts of the roadmap remain private until issues are completed
 
 [Open Issues](https://github.com/network-foundation/roadmap/issues)
 
